@@ -367,7 +367,7 @@ header nav ul a {
 .Workers .workers-boxes {
     display: grid;
     grid-auto-flow: column;
-    gap: 100px;
+    gap: 15px;
     overflow-x: auto;
     padding-top: 30px;
     padding-bottom: 20px;
